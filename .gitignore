@@ -1,3 +1,7 @@
+data/maestro-v2.0-midi/all-midis/*
+data/maestro-v2.0-midi/maestro-v2.0.0/*
+data/maestro-v2.0-midi/maestro-v2.0.0-midi.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -102,3 +106,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+data/maestro-v2.0-midi/maestro-v2.0.0/2018/
